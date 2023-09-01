@@ -75,5 +75,6 @@ and to run it:
 If you want to run the programm and read all the input from a file, then run:
 ```./file_name < input_file.txt```.
 
-
+> [!NOTE]
+> The [input3.txt](input3.txt) file should be run with the [Matrix_multiplication_dynamic.s](Matrix_multiplication_dynamic.s) file.
 

@@ -10,8 +10,11 @@ The input looks like this:
 
 The output for this input is
 > 0 1 1 0
+
 > 0 0 1 1
+
 > 0 0 0 1
+
 > 0 0 0 0
 
 

@@ -5,7 +5,7 @@ An assembly-based project with the role of introduction to a low level programmi
 ## The code
 The [Matrix_multiplication.s](Matrix_multiplication.s) file is the *normal* version and the [Matrix_multiplication_dynamic.s](Matrix_multiplication_dynamic.s) is the *memory optimised* version.
 
-The code is made to resolve 3 tasks:
+The code is made to solve 3 tasks:
 1. The resulting matrix from an adjacency list;
    The input looks like this:
    ```

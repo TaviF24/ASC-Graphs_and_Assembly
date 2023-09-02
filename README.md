@@ -56,7 +56,7 @@ The output for this input is
 ```
 
 3. The number of **k-length** paths between 2 nodes using dynamic memory allocation.
-For this task, you can use the same input as before, changing the first number with **3**. The output is the same.
+For this task, you can use the same input as before, changing the first number to **3**. The output is the same.
 
 
 ## What I used

@@ -54,7 +54,7 @@ The output for this input is
 ```
 2
 ```
-meaning that there are *two* paths of length 2 between the 0-node and the 3-node.
+meaning that there are **two** paths of length 2 between the 0-node and the 3-node.
 
 3. The number of **k-length** paths between 2 nodes using dynamic memory allocation.
 For this task, you can use the same input as before, changing the first number to **3**. The output is the same.
